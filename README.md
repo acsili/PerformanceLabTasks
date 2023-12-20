@@ -9,5 +9,5 @@
 #### And clone this repository
 
 ```
-
+git clone https://github.com/acsili/PerformanceLabTasks.git
 ```
